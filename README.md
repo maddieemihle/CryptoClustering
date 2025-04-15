@@ -76,11 +76,13 @@ This project demonstrates how clustering and dimensionality reduction can be app
 3. Open the Jupyter Notebook 
 
 ### Project Structure 
-.
-├── Crypto_Clustering.ipynb   # Jupyter Notebook with the full analysis
-├── README.md                 # Project documentation
-└── data/
-    └── crypto_market_data.csv  # Input data file (if applicable)
+        .
+        ├── Crypto_Clustering.ipynb   # Jupyter Notebook with the full analysis
+        ├── README.md                 # Project documentation
+        └── data/
+             └── crypto_market_data.csv  # Input data file (if applicable)
+
+    
 
 ## Technologies Used: 
 * Python: Programming language for data analysis and clustering.
