@@ -67,6 +67,21 @@ The following scatter plots show the clusters formed using the original scaled d
 ## Conclusion 
 This project demonstrates how clustering and dimensionality reduction can be applied to analyze cryptocurrency market data. By reducing the dataset to its most significant components, PCA improves clustering efficiency and interpretability, providing valuable insights into cryptocurrency behavior.
 
+## Project Setup 
+### How to Run the Project
+1. Clone the repository
+   - git clone <repository-url>
+   - cd <repository-folder>
+2. Instal the required Python libraries 
+3. Open the Jupyter Notebook 
+
+### Project Structure 
+.
+├── Crypto_Clustering.ipynb   # Jupyter Notebook with the full analysis
+├── README.md                 # Project documentation
+└── data/
+    └── crypto_market_data.csv  # Input data file (if applicable)
+
 ## Technologies Used: 
 * Python: Programming language for data analysis and clustering.
 * Pandas: Data manipulation and analysis.
