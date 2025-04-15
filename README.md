@@ -70,9 +70,7 @@ This project demonstrates how clustering and dimensionality reduction can be app
 ## Project Setup 
 ### How to Run the Project
 1. Clone the repository
-   - git clone <repository-url>
-   - cd <repository-folder>
-2. Instal the required Python libraries 
+2. Install the required Python libraries 
 3. Open the Jupyter Notebook 
 
 ### Project Structure 
